@@ -12,7 +12,6 @@ Brief description of the project:
 - This dataset was gathered from Kaggle by <a href="https://www.kaggle.com/datasets/suvidyasonawane/student-academic-placement-performance-dataset">Student Academic Placement Performance Dataset</a>.
 - There are data of 5000 students with 18 different features including student_id
 - Brief description of key columns  
-  - student_id : Student's ID
   - gender : Student's Gender
   - ssc_percentage : 10<sup>th</sup> Percentage
   - hsc_percentage : 12<sup>th</sup> Percentage

@@ -12,24 +12,24 @@ Brief description of the project:
 - This dataset was gathered from Kaggle by <a href="https://www.kaggle.com/datasets/suvidyasonawane/student-academic-placement-performance-dataset">Student Academic Placement Performance Dataset</a>.
 - There are data of 5000 students with 18 different features including student_id
 - Brief description of key columns  
-  - student_id
-  - gender
-  - ssc_percentage
-  - hsc_percentage
-  - degree_percentage
-  - cgpa
-  - entrance_exam_score
-  - technical_skill_score
-  - soft_skill_score
-  - internship_count
-  - live_projects
-  - work_experience_months
-  - certifications
-  - attendance_percentage
-  - backlogs
-  - extracurricular_activities
-  - placement_status
-  - salary_package_lpa
+  - student_id : Student's ID
+  - gender : Student's Gender
+  - ssc_percentage : 10<sup>th</sup> Percentage
+  - hsc_percentage : 12<sup>th</sup> Percentage
+  - degree_percentage : Degree Percentage
+  - cgpa : Degree CGPA
+  - entrance_exam_score : College Entrance Exam Score
+  - technical_skill_score : Technical Skill Score
+  - soft_skill_score : Soft Skill Score
+  - internship_count : No. of Intership Done
+  - live_projects : No. of Projects Completed
+  - work_experience_months : No. of Months of Experience during Internships
+  - certifications : No. of Certifications Completed
+  - attendance_percentage : Percentage of Attendance Acheived during college
+  - backlogs : No. of Backlogs accumulated during college
+  - extracurricular_activities : Partipication in Extracurricular Activities
+  - placement_status : Has Goten Placement
+  - salary_package_lpa : Salary Package(LPA) if Got Placement
     
 <img width="2260" height="901" alt="image" src="https://github.com/user-attachments/assets/2c23cc3c-98da-4c1a-9cec-647b6b8fa9e2" />
 A snapshot of dataset

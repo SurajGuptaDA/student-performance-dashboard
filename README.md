@@ -30,7 +30,9 @@ Brief description of the project:
   - extracurricular_activities
   - placement_status
   - salary_package_lpa
-<img width="2260" height="21" alt="image" src="https://github.com/user-attachments/assets/17e5955e-2ec9-4964-b5df-6bc4d5e6990e" />
+    
+<img width="2260" height="901" alt="image" src="https://github.com/user-attachments/assets/2c23cc3c-98da-4c1a-9cec-647b6b8fa9e2" />
+A snapshot of dataset
  
 
 ---

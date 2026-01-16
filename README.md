@@ -2,14 +2,14 @@
 
 ## 📌 Project Overview
 Brief description of the project:
-- Objective of the analysis
-- What problem this project is trying to solve
-- Why this dataset is relevant (academic + placement perspective)
+- The Objective of this analysis is to understand different distribution of students skills and achievements and How to make them better.
+- Which Cretaria's matter for Student placements?
+- This Dataset include numerous student details regarding their technical & academic skills, which makes it right for this analysis.
 
 ---
 
 ## 📂 Dataset Overview
-- Source of the dataset
+- This dataset was gathered from Kaggle by <a href="https://www.kaggle.com/datasets/suvidyasonawane/student-academic-placement-performance-dataset">Student Academic Placement Performance Dataset</a>.
 - Number of records and features
 - Brief description of key columns  
   - Academic metrics  

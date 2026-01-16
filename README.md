@@ -10,11 +10,28 @@ Brief description of the project:
 
 ## 📂 Dataset Overview
 - This dataset was gathered from Kaggle by <a href="https://www.kaggle.com/datasets/suvidyasonawane/student-academic-placement-performance-dataset">Student Academic Placement Performance Dataset</a>.
-- Number of records and features
+- There are data of 5000 students with 18 different features including student_id
 - Brief description of key columns  
-  - Academic metrics  
-  - Attendance data  
-  - Placement-related fields  
+  - student_id
+  - gender
+  - ssc_percentage
+  - hsc_percentage
+  - degree_percentage
+  - cgpa
+  - entrance_exam_score
+  - technical_skill_score
+  - soft_skill_score
+  - internship_count
+  - live_projects
+  - work_experience_months
+  - certifications
+  - attendance_percentage
+  - backlogs
+  - extracurricular_activities
+  - placement_status
+  - salary_package_lpa
+<img width="2260" height="21" alt="image" src="https://github.com/user-attachments/assets/17e5955e-2ec9-4964-b5df-6bc4d5e6990e" />
+ 
 
 ---
 

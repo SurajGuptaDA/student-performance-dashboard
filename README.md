@@ -40,9 +40,8 @@ A snapshot of dataset
 This section explores the background distribution of students.
 
 **Analysis Focus:**
-- Student distribution by department / stream
-- Gender-wise distribution
-- Other demographic attributes (if applicable)
+- Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup>
+- Gender-wise distribution of Students
 
 **Visualizations Used:**
 - Bar charts

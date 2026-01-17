@@ -40,12 +40,29 @@ A snapshot of dataset
 This section explores the background distribution of students.
 
 **Analysis Focus:**
-- Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup>
+- Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup><br>
+<div>
+<img width="1091" height="343" alt="image" src="https://github.com/user-attachments/assets/98454da7-7957-492f-9f0a-b12a8476f7b8" />
+
+This Distribution of 10th percentage shows that 50% is the Min. Percentage Students have and 95% is the Max.
+and According to percentile of the 10th percentage, 50% students had atleast 72%. Also, This Distribution also shows that No. of Students are mostly balanced in different Percentage Groups.
+Moving on to,
+
+<img width="1306" height="366" alt="image" src="https://github.com/user-attachments/assets/5932fc35-8f56-428e-975a-9e4cdfc64192" />
+
+Similarly, This Distribution of 12th percentage Also Follows the same trend's as previous distribution, with almost same numbers.
+which we can verify using the percentile image below,  
+
+<img width="593" height="121" alt="image" src="https://github.com/user-attachments/assets/f8b62b9c-f16f-4eff-abdd-3b9cfee26737" />
+
+</div>
+
 - Gender-wise distribution of Students
 
 **Visualizations Used:**
 - Bar charts
 - Pie / donut charts
+
 
 ---
 

@@ -43,9 +43,9 @@ This section explores the background distribution of students.
 - Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup><br>
 <div>
 <img width="1091" height="343" alt="image" src="https://github.com/user-attachments/assets/98454da7-7957-492f-9f0a-b12a8476f7b8" />
-
-This Distribution of 10th percentage shows that 50% is the Min. Percentage Students have and 95% is the Max.
-and According to percentile of the 10th percentage, 50% students had atleast 72%. Also, This Distribution also shows that No. of Students are mostly balanced in different Percentage Groups.
+This Distribution dipicts that:
+* consistent high performance: Whole Distribution follows a uniform distribution and 85% of students have high scores.
+  
 Moving on to,
 
 <img width="1306" height="366" alt="image" src="https://github.com/user-attachments/assets/5932fc35-8f56-428e-975a-9e4cdfc64192" />

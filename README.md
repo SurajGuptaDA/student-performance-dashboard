@@ -39,19 +39,26 @@ A snapshot of dataset
 ## 👥 Demographics Analysis
 This section explores the background distribution of students.
 
-**Analysis Focus:**
-- Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup><br>
+**Analysis Focus:**<br>
+
+**Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup>**<br>
 <div>
 <img width="1091" height="343" alt="image" src="https://github.com/user-attachments/assets/98454da7-7957-492f-9f0a-b12a8476f7b8" />
 This Distribution dipicts that:
-* consistent high performance: Whole Distribution follows a uniform distribution and 85% of students have high scores.
+  
+- consistent high performance: Whole Distribution follows a uniform distribution instead of having a Normal distribution(bell curve) and students are likely to score 95% as much likely for them to score 70%.
+- Mojority of the Students are b/w 55% to 95%, acheiving a very healthy score portion.
+- Normally Students Scored 55% and highest possible score of students is 95% and there is dip in scores in the middle resulting 60% is the least common score b/w students.
   
 Moving on to,
 
 <img width="1306" height="366" alt="image" src="https://github.com/user-attachments/assets/5932fc35-8f56-428e-975a-9e4cdfc64192" />
 
-Similarly, This Distribution of 12th percentage Also Follows the same trend's as previous distribution, with almost same numbers.
-which we can verify using the percentile image below,  
+This Distribution dipicts that:
+  
+- Trend of Decline at the end: This distribution is more common to what we usualy find in scores distribution emerging as slightly positive skewed distribution ensuring achieving high score is more difficult.
+-  Similar to previous Distribution, 55% is the Normally Achieved score within students and 95% is the highest achieved score.
+-  Stablity of mid-Ranges Suggests that average performance are broad range plateau.
 
 <img width="593" height="121" alt="image" src="https://github.com/user-attachments/assets/f8b62b9c-f16f-4eff-abdd-3b9cfee26737" />
 

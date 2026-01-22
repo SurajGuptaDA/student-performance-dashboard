@@ -69,7 +69,7 @@ Analysis of students’ academic outcomes.
 - Performance comparisons across groups
 
 **Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup>**<br>
-<div>
+
 <img width="1091" height="343" alt="image" src="https://github.com/user-attachments/assets/98454da7-7957-492f-9f0a-b12a8476f7b8" />
 This Distribution dipicts that:
   
@@ -87,9 +87,21 @@ This Distribution dipicts that:
 -  Similar to previous Distribution, 55% is the Normally Achieved score within students and 95% is the highest achieved score.
 -  Stablity of mid-Ranges Suggests that average performance are broad range plateau.
 
-<img width="593" height="121" alt="image" src="https://github.com/user-attachments/assets/f8b62b9c-f16f-4eff-abdd-3b9cfee26737" />
 
-</div>
+**Students Degree CGPA/Percentage Analysis**
+
+<p align="center">
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/6ede3a28-9bc0-4e7e-8d96-59b33523951c" />
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/72ff7efb-b665-410b-bb36-cc650b3e3afa" />
+</p>
+
+According to the Distribution It Clears:
+
+- Most Students Acheived High CGPA with 9.0 as the most common CGPA within students which only falls off at perfect 10.0 CGPA with 340 Students, This indicates a very strong overall academic performance.
+- there are 7 students at 5.5 CGPA making that category a massive outlier, except that 99.8% students acheived more that 6.0 CGPA.
+- Degree percentage Distribution follows a standard bell curve with clear boundaries of 56% and 89% with 71% in the middle as mean.
+
+
 
 **Visualizations Used:**
 - Histograms

@@ -1,5 +1,8 @@
 # Student Performance & Placement Analysis
 
+<img width="1839" height="671" alt="image" src="https://github.com/user-attachments/assets/6fe1fec4-5458-42bc-89be-fe6b67f8f389" />
+
+
 ## 📌 Project Overview
 Brief description of the project:
 - The Objective of this analysis is to understand different distribution of students skills and achievements and How to make them better.
@@ -39,7 +42,31 @@ A snapshot of dataset
 ## 👥 Demographics Analysis
 This section explores the background distribution of students.
 
-**Analysis Focus:**<br>
+**Gender-wise distribution of Students**
+
+<p align="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/91c76bea-0a24-4f2b-86e4-2110a8885c6d" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/a34953b2-9837-48b0-9341-7cac964c9d3e" />
+</p>
+
+
+
+
+
+With this visualization we can deduce that number of males is almost same as females, So The Data is Balanced and have perfect gender disparity.
+
+**Visualizations Used:**
+- Bar charts
+- Pie / donut charts
+  
+---
+
+## 📊 Academic Performance Analysis
+Analysis of students’ academic outcomes.
+
+**Analysis Focus:**
+- CGPA / marks distribution
+- Performance comparisons across groups
 
 **Student distribution by Percentage Achieved in 10<sup>th</sup>/12<sup>th</sup>**<br>
 <div>
@@ -63,23 +90,6 @@ This Distribution dipicts that:
 <img width="593" height="121" alt="image" src="https://github.com/user-attachments/assets/f8b62b9c-f16f-4eff-abdd-3b9cfee26737" />
 
 </div>
-
-- Gender-wise distribution of Students
-
-**Visualizations Used:**
-- Bar charts
-- Pie / donut charts
-
-
----
-
-## 📊 Academic Performance Analysis
-Analysis of students’ academic outcomes.
-
-**Analysis Focus:**
-- CGPA / marks distribution
-- Department-wise academic performance
-- Performance comparisons across groups
 
 **Visualizations Used:**
 - Histograms

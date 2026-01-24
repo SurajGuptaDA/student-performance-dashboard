@@ -116,7 +116,7 @@ Study of how attendance affects academic performance.
 - Attendance grouped into categories (Low / Medium / High)
 - Median CGPA across attendance groups
 
-**Understanding impact of Attendance on Different Features**
+**Understanding impact of Attendance on CGPA**
 
 <img width="1466" height="587" alt="image" src="https://github.com/user-attachments/assets/c8cc4706-8047-4463-ac56-b5ec0f084903" />
 This Graph doesn't show any relation of attendance to CGPA at all:
@@ -125,6 +125,12 @@ This Graph doesn't show any relation of attendance to CGPA at all:
 - Still we can see that, at 77% attendance there a peak of 8.2 Median CGPA suggest students with more 3 quarter attendance performs better that those with near perfect attendance suggesting balance of both class time and independent study or other activitites.
 <br>
 Note: Y-Axis was truncated for the better view at the fluctuations.
+
+<img width="1004" height="613" alt="image" src="https://github.com/user-attachments/assets/cc509758-a616-45d9-9536-e263eb2e54cd" />
+
+Because we couldn't uncover much relation between attendance and CGPA, This Visualization tries a different approach to find to create different groups based on their attendance (<60%, <75%, >75%)
+
+
 
 
 **Techniques Used:**

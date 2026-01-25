@@ -167,7 +167,7 @@ Using This Visualization, We find
 
 **Influence of Different Features on Placements**
 
-<img width="2956" height="653" alt="image" src="https://github.com/user-attachments/assets/ee0d415a-d252-4dbb-9c42-8836925af21f" />
+<img width="1800" height="653" alt="image" src="https://github.com/user-attachments/assets/0bbcc0e2-7d09-482d-bc94-28d9b4adcf2a" />
 
 According to this visualization, There is no fluctuations in line chart before 7.0 CGPA meaning,
 

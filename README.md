@@ -156,8 +156,8 @@ Evaluation of placement outcomes and their drivers.
 **Placement Rate By Different Features**
 
 <p align="center">
-  <img width="807" height="463" alt="image" src="https://github.com/user-attachments/assets/45c77289-67f1-42ce-9345-78489bb31a16" />
-  <img width="805" height="467" alt="image" src="https://github.com/user-attachments/assets/803004c7-9fa4-4497-b1a5-475495b6a229" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/45c77289-67f1-42ce-9345-78489bb31a16" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/803004c7-9fa4-4497-b1a5-475495b6a229" />
 </p>
 
 Using This Visualization, We find
@@ -170,7 +170,7 @@ Using This Visualization, We find
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9d282fd8-4f75-4fdb-be11-8e032fed7458" />
 
-With This Visualization we trying to find does more attendance means better chances of placement. although there wasn't any coorelation b/w attendance % and placements, so we're apply the same thing as previous,
+With This Visualization we trying to find, does more attendance means better chances of placement. although there wasn't any coorelation b/w attendance % and placements, so we're apply the same thing as previous,
 
 - Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
 - Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.

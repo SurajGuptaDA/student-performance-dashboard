@@ -125,10 +125,11 @@ This Graph doesn't show any relation of attendance to CGPA at all:
 - we expect that more attendance means more CGPA but that is not the case, its actually pretty stable to the point that difference b/w both minimas is less that 1 unit.
 - Still we can see that, at 77% attendance there a peak of 8.2 Median CGPA suggest students with more 3 quarter attendance performs better that those with near perfect attendance suggesting balance of both class time and independent study or other activitites.
 <br>
+Because we couldn't uncover much relation between attendance and CGPA,
 
 <img width="1004" height="613" alt="image" src="https://github.com/user-attachments/assets/cc509758-a616-45d9-9536-e263eb2e54cd" />
 
-Because we couldn't uncover much relation between attendance and CGPA, This Visualization tries a different approach to find to create different groups based on their attendance (<60%, <75%, >75%)
+This Visualization tries a different approach, By creating different groups based on their attendance (<60%, <75%, >75%)
 
 - At First, It seems that attendance has near to none effect on CGPA, because all of the groups has almost same numbers.
 - But Low Group has only 133 samples in it which is only ~2.6% of the all students so we cant actually compare them to other groups.
@@ -136,8 +137,10 @@ Because we couldn't uncover much relation between attendance and CGPA, This Visu
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9d282fd8-4f75-4fdb-be11-8e032fed7458" />
 
+With This Visualization we trying to find does more attendance means better chances of placement. although there wasn't any coorelation b/w attendance % and placements, so we're apply the same thing as previous,
 
-
+- Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
+- Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.
 
 **Techniques Used:**
 - Feature binning

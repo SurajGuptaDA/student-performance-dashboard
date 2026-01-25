@@ -135,13 +135,6 @@ This Visualization tries a different approach, By creating different groups base
 - But Low Group has only 133 samples in it which is only ~2.6% of the all students so we cant actually compare them to other groups.
 - Apart from Low, Mid and High has compareable no. of students and it shows that More attendance justn't mean more CGPA.
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9d282fd8-4f75-4fdb-be11-8e032fed7458" />
-
-With This Visualization we trying to find does more attendance means better chances of placement. although there wasn't any coorelation b/w attendance % and placements, so we're apply the same thing as previous,
-
-- Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
-- Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.
-
 **Techniques Used:**
 - Feature binning
 - Pivot tables
@@ -149,7 +142,6 @@ With This Visualization we trying to find does more attendance means better chan
 **Visualizations Used:**
 - Line plots
 - Box plots
-- Bar charts
 
 ---
 
@@ -160,6 +152,28 @@ Evaluation of placement outcomes and their drivers.
 - Overall placement rate
 - Placement rate by department
 - Relationship between CGPA and placement status
+
+**Placement Rate By Different Features**
+
+<p align="center">
+  <img width="807" height="463" alt="image" src="https://github.com/user-attachments/assets/45c77289-67f1-42ce-9345-78489bb31a16" />
+  <img width="805" height="467" alt="image" src="https://github.com/user-attachments/assets/803004c7-9fa4-4497-b1a5-475495b6a229" />
+</p>
+
+Using This Visualization, We find
+
+- There's a big amount of students weren't getting placed around 4150 to be exact which is a massive ~83% of all the students, Which Immediately signals Low Success Rate.
+- To Can't investigate further without more context of Why only 17% students are getting Placed, Which can be is this data from the start of placement season or the end, if its the end of the season then 17% is alarming.
+- Atleast We can Say that Both Gender are unsettled by this.
+
+**Impact of Attendance in Placements**
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9d282fd8-4f75-4fdb-be11-8e032fed7458" />
+
+With This Visualization we trying to find does more attendance means better chances of placement. although there wasn't any coorelation b/w attendance % and placements, so we're apply the same thing as previous,
+
+- Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
+- Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.
 
 **Visualizations Used:**
 - Bar charts

@@ -150,10 +150,9 @@ Evaluation of placement outcomes and their drivers.
 
 **Analysis Focus:**
 - Overall placement rate
-- Placement rate by department
-- Relationship between CGPA and placement status
+- Relationship between Different Features and Placement Status
 
-**Placement Rate By Different Features**
+**Placement Rate of Students**
 
 <p align="center">
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/45c77289-67f1-42ce-9345-78489bb31a16" />
@@ -166,7 +165,15 @@ Using This Visualization, We find
 - To Can't investigate further without more context of Why only 17% students are getting Placed, Which can be is this data from the start of placement season or the end, if its the end of the season then 17% is alarming.
 - Atleast We can Say that Both Gender are unsettled by this.
 
-**Impact of Attendance in Placements**
+**Influence of Different Features on Placements**
+
+<img width="2956" height="653" alt="image" src="https://github.com/user-attachments/assets/ee0d415a-d252-4dbb-9c42-8836925af21f" />
+
+According to this visualization, There is no fluctuations in line chart before 7.0 CGPA meaning,
+
+- To have a better chance of placements, students needs to have atleast or more than 7.0 CGPA, or this could also mean that those with less than 7.0 CGPA aren't allowed for the interview.
+- There are large peaks around 8.0 CGPA reaching even ~71% chances of placement.
+- The Most Interesting Insight from this is that, everyone have almost same amount of chances of the placements meaning more CGPA doesn't grant a guarantee for placement, or it can't be the only factor responsible.
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/9d282fd8-4f75-4fdb-be11-8e032fed7458" />
 
@@ -174,6 +181,9 @@ With This Visualization we trying to find, does more attendance means better cha
 
 - Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
 - Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.
+
+
+
 
 **Visualizations Used:**
 - Bar charts

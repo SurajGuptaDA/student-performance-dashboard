@@ -182,7 +182,22 @@ With This Visualization we trying to find, does more attendance means better cha
 - Again As Low Attendance Group has a lot less no. of students, we can only compare the other two groups.
 - Both Mid and High Attendance Groups has almost the same % of students placed, meaning High attendance doesn't mean better chances of placements.
 
+Note: Y-Axis Was Truncated to see Variation Clearly.
+<img width="1434" height="610" alt="image" src="https://github.com/user-attachments/assets/f38457ac-5474-4e86-ae48-580bac079dd2" />
 
+Using this Chart We are trying to spot, Does Backlogs becomes a liability during Placements:
+
+- On The First Glance We See, That After Those with more than 2 backlogs have 0% chance of placements, which could mean that either those with more than 2 backlogs aren't even allowed to take interview or there were just selected.
+- There isn't much too see in the CGPA of students with different backlogs there isn't a big difference in CGPA, Which could just mean students are good in most of the subjects except some in which they have backlogs.
+- Most amount of backlog, a student can have is 5 which means that there may be a creteria was applied on students with more than that.
+
+<img width="1385" height="666" alt="image" src="https://github.com/user-attachments/assets/554c529d-fb8d-48aa-b374-a208fd19f4f6" />
+Here We Applied a new Visualization which is a Scatter plot in Technical v/s Soft Skill with hue by placements. We already can see that, all the students with placements are always inside a specific range which is Technical Skill Should be more than 55 and Soft Skills Should be more than 60, To have a chance of placement.
+
+
+<img width="1827" height="302" alt="image" src="https://github.com/user-attachments/assets/31429a88-c071-4bde-a707-54e0194be352" />
+
+Here We Applied a Correlation B/w All of the Features, and found out that for placements there is a huge negative correlation with backlogs which we already Saw, then there are some other features with slightly positive correlation with placement like CGPA, Technical Skill Score and Soft Skill Score. So This Gives us a validation that all the results, We gathered were Correct and Liable.
 
 
 **Visualizations Used:**

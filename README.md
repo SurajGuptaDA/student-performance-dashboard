@@ -225,12 +225,8 @@ From This Visualization we can find out some things out:
 - Job with 15 LPA is the highest salary and it's also really common. As there are less number of students in 3-4 LPA jobs suggests college has a minimum required package given or Mass-Reqruiters are not allowed.
 
 
-
-
 **Visualizations Used:**
 - Histogram
-- Scatter plots
-- Histograms
 
 ---
 

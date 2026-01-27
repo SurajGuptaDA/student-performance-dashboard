@@ -233,29 +233,26 @@ From This Visualization we can find out some things out:
 ## 📌 Key Findings & Recommendations
 Summary of insights derived from the analysis.
 
-**Examples:**
-- Impact of attendance on academic performance
-- Role of CGPA in placement probability
-- Departments with strong placement outcomes
+**Key Findings**
+- Most Students have Achieved a good CGPA of 9.0 in degree.
+- Even After Having 99% attendance students doesn't have near perfect grades.
+- Only 17% of all the students are getting placements.
+- There are almost same amount of students with placements in every salary range and even 15 LPA as the highest and most common salary among the students.
 
 **Recommendations:**
-- Actionable insights for students
-- Suggestions for academic institutions
+- More Attendance Doesn't promises better grades, Students can have a near perfect grade just by having 75% attendance.
+- Students Needs to have more than 7.0 CGPA to appear for interview.
+- Students Needs to maintain less than 3 backlogs to have chances of placements.
+- Students Needs to Have Technical Skill Score of more than 55 and Soft Skill Score of more than 60 to have a chance for placement.
 
 ---
 
 ## 🛠 Tools & Technologies Used
 - Excel / Google Sheets
-- Python (Pandas, Matplotlib / Seaborn)
-- Power BI / Tableau (if applicable)
 
 ---
 
 ## 📈 Future Improvements
 - Add predictive modeling for placement outcomes
-- Build an interactive dashboard
-- Include time-series analysis across semesters
 
----
 
-## 📎 Project Structure

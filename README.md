@@ -204,6 +204,7 @@ Here We Applied a Correlation B/w All of the Features, and found out that for pl
 - Bar charts
 - Stacked bar charts
 - Pie charts
+- Scatter plot
 
 ---
 
@@ -213,10 +214,21 @@ Analysis of compensation for placed students.
 **Analysis Focus:**
 - Salary distribution
 - CGPA vs salary relationship
-- Department-wise salary comparison
+
+**Salary Distribution of Students**
+
+<img width="1524" height="596" alt="image" src="https://github.com/user-attachments/assets/9a947e33-9929-4b3f-b3a1-234e4754a753" />
+
+From This Visualization we can find out some things out:
+
+- This Histogram is almost uniform, which is not normal to see because usually there are more students in between 3-4 LPA and lot less peoples at the high paying jobs but this histogram shows all salary jobs have almost same amount of students.
+- Job with 15 LPA is the highest salary and it's also really common. As there are less number of students in 3-4 LPA jobs suggests college has a minimum required package given or Mass-Reqruiters are not allowed.
+
+
+
 
 **Visualizations Used:**
-- Box plots
+- Histogram
 - Scatter plots
 - Histograms
 

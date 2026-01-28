@@ -1,6 +1,7 @@
 # Student Performance & Placement Analysis
 
-<img width="1839" height="671" alt="image" src="https://github.com/user-attachments/assets/6fe1fec4-5458-42bc-89be-fe6b67f8f389" />
+<img width="1849" height="671" alt="image" src="https://github.com/user-attachments/assets/b61c960a-7738-489e-955e-27c6baa6c27b" />
+
 
 
 ## 📌 Project Overview
